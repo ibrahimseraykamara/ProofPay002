@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "ProofPay",
+    "slug": "proofpay",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.iskoroma.proofpay"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "40b58be4-588f-4985-9cf7-0bd3f978a271"
+      }
+    }
+  }
+}
